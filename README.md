@@ -1,7 +1,7 @@
-# Codewars
+# Codewars  
 
-- Link to Codewars Profile:
-https://www.codewars.com/users/OleHendrix
+- **Link to Codewars Profile**:  
+  [Codewars Profile](https://www.codewars.com/users/OleHendrix)  
 
-- Current Rank:
-5kyu (93,2%)
+- **Current Rank**:  
+  **5kyu (93.2%)**  
