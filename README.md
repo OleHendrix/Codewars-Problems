@@ -4,4 +4,4 @@
   [Codewars Profile](https://www.codewars.com/users/OleHendrix)  
 
 - **Current Rank**:  
-  **5kyu (93.2%)**  
+  <span style="color:orange; font-weight:bold;">5kyu (93.2%)</span>
