@@ -3,7 +3,7 @@
 - **Link to Codewars Profile**:  
   [Codewars Profile](https://www.codewars.com/users/OleHendrix)
 
-- **Link to my completed solutionse**:  
+- **Link to my completed solutions**:  
   [Codewars Solutions](https://www.codewars.com/users/OleHendrix/completed_solutions)  
 
 - **Current Rank**:  
