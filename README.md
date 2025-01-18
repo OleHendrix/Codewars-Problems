@@ -6,5 +6,5 @@
 - **Current Rank**:  
   <span style="color:orange; font-weight:bold;">5kyu (93.2%)</span>
 
-  ![Alt-tekst](link-naar-je-foto)
+  ![Stats](Screenshot 2025-01-18 at 23.22.28.png)
 
